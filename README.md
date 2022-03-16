@@ -4,7 +4,7 @@
 
 - 🔭Sou estudante de Desenvolvimento Web
 - 🌱 estudando HTML / CSS / JavaScript
-- 👯 Contate-me no e-mail : waguinhoxd4@gmail.com
+- 👯 Contate-me no e-mail : wagnermoraiscontato@gmail.com
 
 <div align="center">
   <a href="https://github.com/wagner2700">
