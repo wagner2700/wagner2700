@@ -2,8 +2,8 @@
 
 
 
-- 🔭Sou estudante de Desenvolvimento Web
-- 🌱 estudando HTML / CSS / JavaScript
+- 🔭Sou estudante de Desenvolvimento Java Web
+- 🌱 estudando Java / SQL / Back End
 - 👯 Contate-me no e-mail : wagnermoraiscontato@gmail.com
 
 <div align="center">
